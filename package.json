@@ -1,0 +1,28 @@
+{
+  "name": "campusvoice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CampusVoice — Secure, Anonymous-by-Design Complaint and Safety Platform",
+  "workspaces": [
+    "server",
+    "client",
+    "mobile"
+  ],
+  "scripts": {
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "build:server": "npm --prefix server run build",
+    "build:client": "npm --prefix client run build",
+    "test": "npm --prefix server test",
+    "prisma:generate": "npm --prefix server run prisma:generate",
+    "prisma:migrate": "npm --prefix server run prisma:migrate",
+    "prisma:seed": "npm --prefix server run prisma:seed"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

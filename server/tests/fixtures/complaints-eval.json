@@ -1,0 +1,272 @@
+[
+  {
+    "id": "eval-01",
+    "title": "Severe physical ragging in Block B 3rd floor bathroom",
+    "category": "Anti-Ragging Squad",
+    "description": "A group of seniors dragged two first-year students into the washroom, locked the door from inside, and physically assaulted them while demanding money and assignments.",
+    "expectedSafety": true,
+    "expectedMinPriority": "HIGH",
+    "isSpam": false
+  },
+  {
+    "id": "eval-02",
+    "title": "Hostel intruder with a knife near girls hostel mess",
+    "category": "Physical Assault & Threats",
+    "description": "Around 9:30 PM, an unidentified masked man was spotted carrying a knife near the back entrance of Ganga Hostel. He threatened a student who ran away.",
+    "expectedSafety": true,
+    "expectedMinPriority": "CRITICAL",
+    "isSpam": false
+  },
+  {
+    "id": "eval-03",
+    "title": "Unwanted touching and stalking after evening lab class",
+    "category": "Sexual Harassment (ICC)",
+    "description": "An instructor repeatedly waited outside the robotics laboratory and made inappropriate sexual remarks, touched my shoulder without consent, and followed me to the campus gate.",
+    "expectedSafety": true,
+    "expectedMinPriority": "HIGH",
+    "isSpam": false
+  },
+  {
+    "id": "eval-04",
+    "title": "Senior students forcing alcohol consumption in Room 204",
+    "category": "Anti-Ragging Squad",
+    "description": "Third-year hostel residents are forcing first-years to drink cheap alcohol and threatening to beat them if they refuse to obey.",
+    "expectedSafety": true,
+    "expectedMinPriority": "HIGH",
+    "isSpam": false
+  },
+  {
+    "id": "eval-05",
+    "title": "Death threats received via anonymous WhatsApp messages",
+    "category": "Physical Assault & Threats",
+    "description": "I have received three separate phone messages saying 'Watch your back on the way to the bus stop tomorrow or you will be hospitalised'.",
+    "expectedSafety": true,
+    "expectedMinPriority": "HIGH",
+    "isSpam": false
+  },
+  {
+    "id": "eval-06",
+    "title": "Hostel warden verbally abusing and physically pushing students",
+    "category": "Disciplinary & Safety",
+    "description": "During room inspection, the assistant warden shoved a student against the steel locker and used abusive casteist slurs.",
+    "expectedSafety": true,
+    "expectedMinPriority": "HIGH",
+    "isSpam": false
+  },
+  {
+    "id": "eval-07",
+    "title": "Active violent brawl with iron rods outside main cafeteria",
+    "category": "Physical Assault & Threats",
+    "description": "Two rival groups are fighting right now near the juice center using wooden sticks and metal rods. Multiple people are bleeding.",
+    "expectedSafety": true,
+    "expectedMinPriority": "CRITICAL",
+    "isSpam": false
+  },
+  {
+    "id": "eval-08",
+    "title": "Extortion of monthly cash from juniors in Cauvery Hostel",
+    "category": "Anti-Ragging Squad",
+    "description": "Seniors are demanding ₹2,000 cash per student every month as 'protection tax' under threat of physical violence.",
+    "expectedSafety": true,
+    "expectedMinPriority": "HIGH",
+    "isSpam": false
+  },
+  {
+    "id": "eval-09",
+    "title": "Student showing signs of severe self-harm in dorm room",
+    "category": "Disciplinary & Safety",
+    "description": "My roommate has locked himself in the bathroom, weeping hysterically, and talking about ending his life. Please send security immediately.",
+    "expectedSafety": true,
+    "expectedMinPriority": "CRITICAL",
+    "isSpam": false
+  },
+  {
+    "id": "eval-10",
+    "title": "Physical stalking of female student near South Campus Gate",
+    "category": "Sexual Harassment (ICC)",
+    "description": "A man on a black Pulsar bike has been following female students daily from the library to the south gate between 8 PM and 9 PM.",
+    "expectedSafety": true,
+    "expectedMinPriority": "HIGH",
+    "isSpam": false
+  },
+  {
+    "id": "eval-11",
+    "title": "Broken window pane in Computer Lab 3 causing rain seepage",
+    "category": "Campus Infrastructure",
+    "description": "The middle glass window pane on the second floor is cracked and allows rainwater to enter near the power outlets.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": false
+  },
+  {
+    "id": "eval-12",
+    "title": "No running water in Godavari Hostel 2nd floor since morning",
+    "category": "Campus Infrastructure",
+    "description": "Water supply has been disrupted for over 12 hours. The overhead tank valve appears to be jammed.",
+    "expectedSafety": false,
+    "expectedMinPriority": "MEDIUM",
+    "isSpam": false
+  },
+  {
+    "id": "eval-13",
+    "title": "Flickering fluorescent tube light in Library Study Hall",
+    "category": "Campus Infrastructure",
+    "description": "The ceiling tube light directly above desk 14 blinks continuously and causes eye strain.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": false
+  },
+  {
+    "id": "eval-14",
+    "title": "Stray dogs entering campus through broken perimeter fence",
+    "category": "Campus Infrastructure",
+    "description": "A section of the boundary wall behind the sports complex has collapsed, allowing aggressive street dogs onto campus walkways.",
+    "expectedSafety": false,
+    "expectedMinPriority": "MEDIUM",
+    "isSpam": false
+  },
+  {
+    "id": "eval-15",
+    "title": "AC malfunction in Mechanical Seminar Hall",
+    "category": "Campus Infrastructure",
+    "description": "The centralized air conditioner is blowing warm air during guest lectures.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": false
+  },
+  {
+    "id": "eval-16",
+    "title": "Dirty drinking water filters in Civil Engineering building",
+    "category": "Campus Infrastructure",
+    "description": "The water cooler on the ground floor has yellowish water and an unpleasant metallic odor.",
+    "expectedSafety": false,
+    "expectedMinPriority": "MEDIUM",
+    "isSpam": false
+  },
+  {
+    "id": "eval-17",
+    "title": "Exposed high-voltage wire hanging near pedestrian footpath",
+    "category": "Campus Infrastructure",
+    "description": "An electrical cable fell from the transformer pole near the football ground and is sparking during light drizzle.",
+    "expectedSafety": false,
+    "expectedMinPriority": "CRITICAL",
+    "isSpam": false
+  },
+  {
+    "id": "eval-18",
+    "title": "Campus Wi-Fi connectivity dropped in Block C classrooms",
+    "category": "Campus Infrastructure",
+    "description": "The eduroam and campus access points have been offline since yesterday afternoon.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": false
+  },
+  {
+    "id": "eval-19",
+    "title": "Earn ₹50,000 daily with crypto trading bot click now",
+    "category": "Campus Infrastructure",
+    "description": "Join our official telegram group https://t.me/easycashfree bonus crypto daily 100% guarantee whatsapp +919999999999.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": true
+  },
+  {
+    "id": "eval-20",
+    "title": "Cheap assignment writing services bit.ly/homeworkhelp",
+    "category": "Academic Integrity",
+    "description": "Get your assignments, essays, and lab reports done by PhD experts at cheap rates. Visit bit.ly/freediscount today.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": true
+  },
+  {
+    "id": "eval-21",
+    "title": "test test test test test test test",
+    "category": "Campus Infrastructure",
+    "description": "test test test test test test test test test test test test test test test",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": true
+  },
+  {
+    "id": "eval-22",
+    "title": "asdf",
+    "category": "Campus Infrastructure",
+    "description": "short",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": true
+  },
+  {
+    "id": "eval-23",
+    "title": "Free casino chips bonus sign up now",
+    "category": "Campus Infrastructure",
+    "description": "Claim free casino bonus tokens today https://freemoney.com no deposit needed.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": true
+  },
+  {
+    "id": "eval-24",
+    "title": "AAAAAAAAAAAA AAAAAAAAAAAA AAAAAAAAAAAA",
+    "category": "Campus Infrastructure",
+    "description": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": true
+  },
+  {
+    "id": "eval-25",
+    "title": "Disagreement over badminton court booking schedule",
+    "category": "Disciplinary & Safety",
+    "description": "Two batches argued for 10 minutes over who had booked court 2 between 6 PM and 7 PM. No physical violence occurred.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": false
+  },
+  {
+    "id": "eval-26",
+    "title": "Music played too loudly during hostel study hours",
+    "category": "Hostel Affairs",
+    "description": "Residents in room 312 played music from Bluetooth speakers until 11 PM during preparation week.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": false
+  },
+  {
+    "id": "eval-27",
+    "title": "Canteen vendor charged ₹5 extra for cold beverage",
+    "category": "Campus Infrastructure",
+    "description": "The cafeteria counter charged ₹25 for an item with an MRP of ₹20.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": false
+  },
+  {
+    "id": "eval-28",
+    "title": "Library book return fine discrepancy",
+    "category": "Campus Infrastructure",
+    "description": "I was charged a ₹10 late fee even though the automated drop box stamped yesterday's date.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": false
+  },
+  {
+    "id": "eval-29",
+    "title": "Faculty rescheduled elective lecture with short notice",
+    "category": "Academic Integrity",
+    "description": "The Tuesday 9 AM class was postponed to Friday 5 PM by an email sent at 8:30 AM.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": false
+  },
+  {
+    "id": "eval-30",
+    "title": "Hostel washing machine coin slot jammed",
+    "category": "Campus Infrastructure",
+    "description": "The front-loading washer in the basement laundry room swallowed a ₹10 token without starting the cycle.",
+    "expectedSafety": false,
+    "expectedMinPriority": "LOW",
+    "isSpam": false
+  }
+]
